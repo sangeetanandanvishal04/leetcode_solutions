@@ -64,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
