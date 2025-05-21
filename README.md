@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1830-count-good-meals](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1830-count-good-meals) |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1751-slowest-key](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1751-slowest-key) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
