@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 ## Simulation
 |  |
