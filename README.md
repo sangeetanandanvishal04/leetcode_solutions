@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0169-majority-element) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
