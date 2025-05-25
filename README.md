@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2411-spiral-matrix-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2411-spiral-matrix-iv) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3031-construct-product-matrix](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3031-construct-product-matrix) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
+| [2411-spiral-matrix-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2411-spiral-matrix-iv) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Bit Manipulation
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2411-spiral-matrix-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2411-spiral-matrix-iv) |
 | [3031-construct-product-matrix](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3031-construct-product-matrix) |
 ## Divide and Conquer
 |  |
@@ -178,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
+## Linked List
+|  |
+| ------- |
+| [2411-spiral-matrix-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2411-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
