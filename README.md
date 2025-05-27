@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3324-split-the-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3324-split-the-array) |
+| [3815-sum-of-largest-prime-substrings](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 ## Sorting
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 | [3321-type-of-triangle](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3321-type-of-triangle) |
+| [3815-sum-of-largest-prime-substrings](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3815-sum-of-largest-prime-substrings) |
 ## Enumeration
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 | [3321-type-of-triangle](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3321-type-of-triangle) |
+| [3815-sum-of-largest-prime-substrings](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Two Pointers
 |  |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0079-word-search) |
 | [1751-slowest-key](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1751-slowest-key) |
 | [3194-find-words-containing-character](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3194-find-words-containing-character) |
+| [3815-sum-of-largest-prime-substrings](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 ## Sliding Window
 |  |
@@ -215,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
+## Number Theory
+|  |
+| ------- |
+| [3815-sum-of-largest-prime-substrings](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3815-sum-of-largest-prime-substrings) |
 <!---LeetCode Topics End-->
