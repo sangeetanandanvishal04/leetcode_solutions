@@ -3,7 +3,13 @@ public:
     int findNumbers(vector<int>& nums) {
         int res = 0;
         for(int num: nums){
-            if(to_string(num).size()%2 == 0){
+            int digit = 0;
+            while(num > 0){
+                digit++;
+                num /= 10;
+            }
+
+            if(digit%2 == 0){
                 res++;
             }
         }
