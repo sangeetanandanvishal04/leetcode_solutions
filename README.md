@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3201-distribute-candies-among-children-ii) |
 ## Counting
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3201-distribute-candies-among-children-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 | [3321-type-of-triangle](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3860-resulting-string-after-adjacent-removals) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
