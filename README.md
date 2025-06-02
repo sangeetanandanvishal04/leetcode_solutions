@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0079-word-search) |
+| [0424-longest-repeating-character-replacement](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1751-slowest-key](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1751-slowest-key) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1034-subarrays-with-k-different-integers) |
