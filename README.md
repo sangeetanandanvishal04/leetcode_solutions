@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0226-invert-binary-tree) |
+| [0437-path-sum-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0437-path-sum-iii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Tree
 |  |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0226-invert-binary-tree) |
+| [0437-path-sum-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0437-path-sum-iii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Number Theory
 |  |
@@ -360,4 +362,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0226-invert-binary-tree) |
+| [0437-path-sum-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0437-path-sum-iii) |
 <!---LeetCode Topics End-->
