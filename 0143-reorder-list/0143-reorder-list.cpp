@@ -10,39 +10,62 @@
  */
 
 class Solution {
+private:
+    ListNode* findMid(ListNode* head){
+        if(head == nullptr || head->next == nullptr){
+            return nullptr;
+        }
+
+        ListNode *slow = head, *fast = head;
+
+        while(fast->next != nullptr && fast->next->next != nullptr){
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+
+        ListNode* second = slow->next;
+        slow->next = nullptr;
+        return second;
+    }   
+
+    ListNode* reverseList(ListNode* head){
+        if(head == nullptr || head->next == nullptr){
+            return head;
+        }
+
+        ListNode *prev = nullptr, *cur = head, *nextNode=head;
+        while(cur != nullptr){
+            nextNode = nextNode->next;
+            cur->next = prev;
+            prev = cur;
+            cur = nextNode;
+        }
+
+        return prev;
+    }  
 public:
     void reorderList(ListNode* head) {
         if(head == nullptr || head->next == nullptr){
             return;
         }
 
-        unordered_map<int, ListNode*> mpp;
-        int i=0, cnt=0;
-        ListNode *cur = head;
+        ListNode* second = findMid(head);
+        second = reverseList(second);
 
-        while(cur != nullptr){
-            mpp[i] = cur;
-            cnt++;
-            i++;
-            cur = cur->next;
+        ListNode *first = head, *temp = nullptr;
+
+        while(first != nullptr && second != nullptr){
+            temp = first;
+            first = first->next;
+            temp->next = second;
+
+            temp = second;
+            second = second->next;
+            temp->next = first;
         }
 
-        ListNode* dummy = new ListNode(-1);
-        i=0;
-        cnt--;
-        while(2*i < cnt){
-            dummy->next = mpp[i];
-            dummy = dummy->next;
-            dummy->next = mpp[cnt-i];
-            dummy = dummy->next;
-            i++;
+        if(first != nullptr){
+            first->next = nullptr;
         }
-
-        if(i == cnt-i){
-            dummy->next = mpp[i];
-            dummy = dummy->next;
-        }
-
-        dummy->next = nullptr;
     }
 };
