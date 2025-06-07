@@ -20,7 +20,6 @@ public:
 
         while(!q.empty()){
             int levelSize = q.size();
-            result.push_back('(');
 
             for(int i=0; i<levelSize; i++){
                 TreeNode* node = q.front();
@@ -37,8 +36,6 @@ public:
                     result += "null,";
                 }
             }
-
-            result.push_back(')');
         }
 
         return result;
@@ -52,10 +49,7 @@ public:
         vector<string> vals;
         string cur;
         for(char ch: data){
-            if(ch == '(' || ch == ')'){
-                continue;
-            }
-            else if(ch == ','){
+            if(ch == ','){
                 if(!cur.empty()){
                     vals.push_back(cur);
                     cur.clear();
