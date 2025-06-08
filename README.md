@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## String Matching
 |  |
@@ -412,4 +415,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
