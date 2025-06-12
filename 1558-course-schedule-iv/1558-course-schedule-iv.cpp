@@ -12,12 +12,8 @@ public:
 
         for(int k=0; k<numCourses; k++){
             for(int i=0; i<numCourses; i++){
-                if(adjMatrix[i][k] == 0){
-                    continue;
-                }
-
                 for(int j=0; j<numCourses; j++){
-                    if(adjMatrix[k][j] == 1){
+                    if(adjMatrix[i][k] == 1 && adjMatrix[k][j] == 1){
                         adjMatrix[i][j] = 1;
                     }
                 }
