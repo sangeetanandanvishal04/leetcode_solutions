@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0212-word-search-ii) |
 | [0695-max-area-of-island](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2411-spiral-matrix-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2411-spiral-matrix-iv) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1558-course-schedule-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1558-course-schedule-iv) |
 ## Binary Tree
 |  |
