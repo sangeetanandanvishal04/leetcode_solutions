@@ -1,7 +1,8 @@
 class DisjointSet{
 public:
-    vector<int> parent;
+    vector<int> parent, size;
     DisjointSet(int V){
+        size.resize(V, 1);
         parent.resize(V, 0);
         for(int i=0; i<V; i++){
             parent[i] = i;
@@ -19,8 +20,17 @@ public:
         int pu = findUParent(u);
         int pv = findUParent(v);
 
-        if(pu != pv){
+        if(pu == pv){
+            return;
+        }
+
+        if(size[pu] < size[pv]){
             parent[pu] = pv;
+            size[pv] += size[pu];
+        }
+        else{
+            parent[pv] = pu;
+            size[pu] += size[pv];
         }
     }
 };
