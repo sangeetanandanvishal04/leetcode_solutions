@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0721-accounts-merge) |
 | [0940-fruit-into-baskets](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0854-making-a-large-island) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1558-course-schedule-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1753-path-with-minimum-effort) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0854-making-a-large-island) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1753-path-with-minimum-effort](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0820-find-eventual-safe-states) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1558-course-schedule-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
