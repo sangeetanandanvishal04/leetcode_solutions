@@ -9,6 +9,10 @@ public:
             }
 
             maxJump = max(maxJump, i + nums[i]);
+            
+            if(maxJump >= n-1){
+                return true;
+            }
         }
 
         return true;
