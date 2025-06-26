@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0854-making-a-large-island) |
+| [0890-lemonade-change](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0630-course-schedule-iii) |
+| [0890-lemonade-change](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0890-lemonade-change) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
