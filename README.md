@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1250-longest-common-subsequence](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0630-course-schedule-iii) |
 | [0890-lemonade-change](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0890-lemonade-change) |
