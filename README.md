@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2411-spiral-matrix-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2411-spiral-matrix-iv) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2479-meeting-rooms-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2479-meeting-rooms-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2479-meeting-rooms-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2915-count-of-interesting-subarrays](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3324-split-the-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3324-split-the-array) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2479-meeting-rooms-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 | [2411-spiral-matrix-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2411-spiral-matrix-iv) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2479-meeting-rooms-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2479-meeting-rooms-iii) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Bit Manipulation
@@ -487,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1753-path-with-minimum-effort) |
 | [1962-single-threaded-cpu](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1962-single-threaded-cpu) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2479-meeting-rooms-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2479-meeting-rooms-iii) |
 ## Merge Sort
 |  |
 | ------- |
