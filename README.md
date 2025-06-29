@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0630-course-schedule-iii) |
