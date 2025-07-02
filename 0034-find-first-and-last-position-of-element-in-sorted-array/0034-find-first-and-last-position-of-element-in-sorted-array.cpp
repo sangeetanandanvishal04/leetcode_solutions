@@ -30,12 +30,12 @@ private:
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
         int n = nums.size();
-        int firstIdx = lowerBound(nums, 0, n-1, target);
+        int firstIdx = lower_bound(nums.begin(), nums.end(), target)-nums.begin();
         if(firstIdx == n || nums[firstIdx] != target){
             return {-1, -1};
         }
 
-        int lastIdx = upperBound(nums, firstIdx, n-1, target);
+        int lastIdx = upper_bound(nums.begin(), nums.end(), target) - nums.begin();
         return {firstIdx, lastIdx-1};
     }
 };
