@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0500-keyboard-row) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0630-course-schedule-iii) |
 | [0695-max-area-of-island](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0695-max-area-of-island) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0794-swim-in-rising-water) |
