@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0212-word-search-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0212-word-search-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0854-making-a-large-island) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
 |  |
