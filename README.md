@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0169-majority-element) |
 | [0212-word-search-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0212-word-search-ii) |
+| [0216-combination-sum-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0229-majority-element-ii) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0113-path-sum-ii) |
 | [0212-word-search-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0212-word-search-ii) |
+| [0216-combination-sum-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0216-combination-sum-iii) |
 | [0813-all-paths-from-source-to-target](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0813-all-paths-from-source-to-target) |
 ## Depth-First Search
 |  |
