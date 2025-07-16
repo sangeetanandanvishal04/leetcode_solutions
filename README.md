@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3324-split-the-array) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3415-check-if-grid-satisfies-conditions) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-jump-game-vii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2001-jump-game-vii) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 ## Simulation
 |  |
