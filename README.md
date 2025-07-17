@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 ## Simulation
 |  |
