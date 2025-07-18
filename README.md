@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2411-spiral-matrix-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2411-spiral-matrix-iv) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-jump-game-vii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2001-jump-game-vii) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1753-path-with-minimum-effort) |
 | [1962-single-threaded-cpu](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1962-single-threaded-cpu) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2479-meeting-rooms-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2479-meeting-rooms-iii) |
 ## Merge Sort
