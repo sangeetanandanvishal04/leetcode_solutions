@@ -16,12 +16,18 @@ private:
     }
 public:
     int twoEggDrop(int n) {
-        for(int f=0; f<=n; f++){
-            if(isPossible(n, f)){
-                return f;
+        int low = 0, high = n;
+
+        while(low <= high){
+            int midf = low + (high-low)/2;
+            if(isPossible(n, midf)){
+                high = midf-1;
+            }
+            else{
+                low = midf+1;
             }
         }
 
-        return n;
+        return low;
     }
 };
