@@ -16,12 +16,18 @@ private:
     }    
 public:
     int superEggDrop(int k, int n) {
-        for(int f=0; f<=n; f++){
-            if(isPossible(k, n, f)){
-                return f;
+        int low = 0, high = n;
+
+        while(low <= high){
+            int midf = low + (high-low)/2;
+            if(isPossible(k, n, midf)){
+                high = midf-1;
+            }
+            else{
+                low = midf+1;
             }
         }
 
-        return n;
+        return low;
     }
 };
