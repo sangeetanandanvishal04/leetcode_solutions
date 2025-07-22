@@ -2,11 +2,11 @@ class Solution {
 private:
     int Solve(vector<int>& nums, int k){
         int n = nums.size();
-        int l=0;
+        int l=0, r=0;
         int cnt = 0;
         unordered_map<int, int> mpp;
 
-        for(int r=0; r<n; r++){
+        while(r<n){
             mpp[nums[r]]++;
 
             while(mpp.size() > k){
@@ -21,6 +21,8 @@ private:
             if(mpp.size() <= k){
                 cnt += r-l+1;
             }
+
+            r++;
         }
 
         return cnt;
