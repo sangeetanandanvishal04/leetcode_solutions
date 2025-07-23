@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0890-lemonade-change) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1829-maximum-units-on-a-truck) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1751-slowest-key](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1751-slowest-key) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2001-jump-game-vii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2001-jump-game-vii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3194-find-words-containing-character](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3194-find-words-containing-character) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Combinatorics
 |  |
