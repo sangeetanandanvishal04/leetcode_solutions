@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0854-making-a-large-island) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0890-lemonade-change](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0940-fruit-into-baskets) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0630-course-schedule-iii) |
 | [0721-accounts-merge](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0721-accounts-merge) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1829-maximum-units-on-a-truck](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1829-maximum-units-on-a-truck) |
 | [1962-single-threaded-cpu](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1962-single-threaded-cpu) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0630-course-schedule-iii) |
 | [0678-valid-parenthesis-string](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0890-lemonade-change](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0890-lemonade-change) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1753-path-with-minimum-effort) |
 | [1962-single-threaded-cpu](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1962-single-threaded-cpu) |
