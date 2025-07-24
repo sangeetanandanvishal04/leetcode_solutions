@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1610-xor-operation-in-an-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1610-xor-operation-in-an-array) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2663-distribute-money-to-maximum-children](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2663-distribute-money-to-maximum-children) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1610-xor-operation-in-an-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1610-xor-operation-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2308-divide-array-into-equal-pairs) |
 ## Binary Search
 |  |
