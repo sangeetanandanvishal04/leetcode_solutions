@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0721-accounts-merge) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1829-maximum-units-on-a-truck](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1829-maximum-units-on-a-truck) |
 | [1962-single-threaded-cpu](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1962-single-threaded-cpu) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
