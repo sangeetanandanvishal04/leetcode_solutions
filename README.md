@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0721-accounts-merge) |
+| [0739-daily-temperatures](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0854-making-a-large-island) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Combinatorics
@@ -813,4 +815,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
