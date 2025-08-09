@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1013-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
