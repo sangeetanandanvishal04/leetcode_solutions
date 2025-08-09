@@ -16,7 +16,18 @@ public:
                 cnt--;
             }
         }
+
+        int cnt2 = 0;
+        int n = nums.size();
+        for(int num: nums){
+            if(majorityElement == num){
+                cnt2++;
+                if(cnt2 > (n/2)){
+                    return majorityElement;
+                }
+            }
+        }
         
-        return majorityElement;
+        return -1;
     }
 };
