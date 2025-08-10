@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3324-split-the-array) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3415-check-if-grid-satisfies-conditions) |
+| [3466-number-of-subarrays-with-and-value-of-k](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3466-number-of-subarrays-with-and-value-of-k](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2538-minimum-cost-to-make-array-equal](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2690-house-robber-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2690-house-robber-iv) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
+| [3466-number-of-subarrays-with-and-value-of-k](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Database
 |  |
 | ------- |
@@ -825,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0307-range-sum-query-mutable) |
+| [3466-number-of-subarrays-with-and-value-of-k](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Brainteaser
 |  |
 | ------- |
