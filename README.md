@@ -614,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1558-course-schedule-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1753-path-with-minimum-effort) |
+| [2439-longest-cycle-in-a-graph](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2439-longest-cycle-in-a-graph) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Tree
 |  |
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1558-course-schedule-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1753-path-with-minimum-effort) |
+| [2439-longest-cycle-in-a-graph](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2439-longest-cycle-in-a-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -814,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-frog-position-after-t-seconds](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1493-frog-position-after-t-seconds) |
 | [1558-course-schedule-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2439-longest-cycle-in-a-graph](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2439-longest-cycle-in-a-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -822,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2439-longest-cycle-in-a-graph](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2439-longest-cycle-in-a-graph) |
 ## Shortest Path
 |  |
 | ------- |
