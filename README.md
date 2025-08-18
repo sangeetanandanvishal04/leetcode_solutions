@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2227-sum-of-subarray-ranges](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2227-sum-of-subarray-ranges](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Combinatorics
 |  |
@@ -861,4 +863,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [2227-sum-of-subarray-ranges](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2227-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
