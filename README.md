@@ -677,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0739-daily-temperatures) |
@@ -786,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0307-range-sum-query-mutable) |
@@ -905,4 +907,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
