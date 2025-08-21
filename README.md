@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0135-candy) |
+| [0149-max-points-on-a-line](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0149-max-points-on-a-line](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0149-max-points-on-a-line) |
 | [0231-power-of-two](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0326-power-of-three) |
@@ -869,4 +872,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [2227-sum-of-subarray-ranges](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2227-sum-of-subarray-ranges) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
