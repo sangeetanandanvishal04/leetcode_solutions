@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0630-course-schedule-iii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0630-course-schedule-iii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0721-accounts-merge) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0552-student-attendance-record-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0552-student-attendance-record-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0664-strange-printer](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0630-course-schedule-iii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0890-lemonade-change](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0890-lemonade-change) |
