@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1042-minimum-cost-to-merge-stones](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1046-max-consecutive-ones-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1104-coloring-a-border](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1104-coloring-a-border) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1036-rotting-oranges) |
+| [1104-coloring-a-border](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1104-coloring-a-border) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1753-path-with-minimum-effort) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1104-coloring-a-border](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1104-coloring-a-border) |
 | [1300-critical-connections-in-a-network](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1300-critical-connections-in-a-network) |
 | [1428-jump-game-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1428-jump-game-iii) |
 | [1493-frog-position-after-t-seconds](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1493-frog-position-after-t-seconds) |
@@ -792,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0854-making-a-large-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1036-rotting-oranges) |
+| [1104-coloring-a-border](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1104-coloring-a-border) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1428-jump-game-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1447-jump-game-iv) |
