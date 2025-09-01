@@ -559,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0394-decode-string](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0551-student-attendance-record-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0551-student-attendance-record-i) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1013-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
