@@ -24,6 +24,7 @@ public:
         for(auto query: queries){
             int u = query[0];
             int v = query[1];
+            
             ans.push_back(adjMatrix[u][v]);
         }
 
