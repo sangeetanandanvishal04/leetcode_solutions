@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3815-sum-of-largest-prime-substrings) |
+| [3830-find-closest-person](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3830-find-closest-person) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3879-find-minimum-log-transportation-cost) |
 ## Two Pointers
