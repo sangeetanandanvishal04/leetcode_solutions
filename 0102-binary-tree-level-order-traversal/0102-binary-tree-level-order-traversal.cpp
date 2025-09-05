@@ -17,23 +17,23 @@ public:
         }
         
         vector<vector<int>> result;
-        queue<TreeNode*> q;
-        q.push(root);
+        queue<TreeNode*> nodesQueue;
+        nodesQueue.push(root);
 
-        while(!q.empty()){
-            int size = q.size();
+        while(!nodesQueue.empty()){
+            int size = nodesQueue.size();
             vector<int> currentLevel;
 
             for(int i=0; i<size; i++){
-                TreeNode* node = q.front();
-                q.pop();
+                TreeNode* node = nodesQueue.front();
+                nodesQueue.pop();
                 currentLevel.push_back(node->val);
 
                 if(node->left != nullptr){
-                    q.push(node->left);
+                    nodesQueue.push(node->left);
                 }
                 if(node->right != nullptr){
-                    q.push(node->right);
+                    nodesQueue.push(node->right);
                 }    
             }
 
