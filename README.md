@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0721-accounts-merge) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0854-making-a-large-island) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1104-coloring-a-border](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1104-coloring-a-border) |
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1493-frog-position-after-t-seconds) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -805,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0854-making-a-large-island) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1036-rotting-oranges) |
 | [1104-coloring-a-border](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1104-coloring-a-border) |
@@ -840,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Design
 |  |
