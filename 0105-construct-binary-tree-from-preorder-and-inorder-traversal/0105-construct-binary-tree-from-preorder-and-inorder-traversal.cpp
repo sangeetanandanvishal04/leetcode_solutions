@@ -12,38 +12,29 @@
 
 class Solution {
 private:
-    TreeNode* Solve(vector<int>& preorder, vector<int>& inorder, int& idx){
-        if(inorder.empty()){
+    TreeNode* Solve(int inStart, int inEnd, int preStart, int preEnd, vector<int>& preorder, vector<int>& inorder, unordered_map<int, int>& inorderMap){
+        if(inStart > inEnd || preStart > preEnd){
             return nullptr;
         }
 
-        TreeNode* root = new TreeNode(preorder[idx]);
+        TreeNode* root = new TreeNode(preorder[preStart]);
         
-        int n = inorder.size();
-        vector<int> leftIn, rightIn;
-        int i=0;
-        while(i<n){
-            if(inorder[i] == preorder[idx]){
-                break;
-            }
-            leftIn.push_back(inorder[i]);
-            i++;
-        }
-        i++;
+        int inRoot = inorderMap[preorder[preStart]];
+        int numsLeft = inRoot - inStart;
 
-        while(i<n){
-            rightIn.push_back(inorder[i]);
-            i++;
-        }
-        
-        idx++;
-        root->left = Solve(preorder, leftIn, idx);
-        root->right = Solve(preorder, rightIn, idx);
-        return root; 
-    }    
+        root->left = Solve(inStart, inRoot-1, preStart+1, preStart+numsLeft, preorder, inorder, inorderMap);
+        root->right = Solve(inRoot+1, inEnd, preStart+numsLeft+1, preEnd, preorder, inorder, inorderMap);
+        return root;
+    }      
 public:
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        int idx = 0;
-        return Solve(preorder, inorder, idx);
+        int n = preorder.size();
+
+        unordered_map<int, int> inorderMap;
+        for(int i=0; i<n; i++){
+            inorderMap[inorder[i]] = i;
+        }
+
+        return Solve(0, n-1, 0, n-1, preorder, inorder, inorderMap);
     }
 };
