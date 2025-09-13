@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [3324-split-the-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3324-split-the-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3815-sum-of-largest-prime-substrings](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3860-resulting-string-after-adjacent-removals) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
 | ------- |
