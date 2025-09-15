@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0721-accounts-merge) |
 | [0990-verifying-an-alien-dictionary](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1250-longest-common-subsequence](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1751-slowest-key](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1751-slowest-key) |
