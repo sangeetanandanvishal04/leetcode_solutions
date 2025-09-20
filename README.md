@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1610-xor-operation-in-an-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1610-xor-operation-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-frog-position-after-t-seconds](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1493-frog-position-after-t-seconds) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1558-course-schedule-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1558-course-schedule-iv) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1753-path-with-minimum-effort) |
 | [2439-longest-cycle-in-a-graph](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2439-longest-cycle-in-a-graph) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1493-frog-position-after-t-seconds) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Number Theory
 |  |
@@ -844,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-frog-position-after-t-seconds](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1493-frog-position-after-t-seconds) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1558-course-schedule-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1558-course-schedule-iv) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1753-path-with-minimum-effort) |
 | [2439-longest-cycle-in-a-graph](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2439-longest-cycle-in-a-graph) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2671-shortest-cycle-in-a-graph) |
@@ -875,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Design
 |  |
 | ------- |
