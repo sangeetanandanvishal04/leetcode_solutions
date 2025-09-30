@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-minimum-time-to-complete-trips](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2294-minimum-time-to-complete-trips) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2411-spiral-matrix-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2411-spiral-matrix-iv) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2047-find-a-peak-element-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2411-spiral-matrix-iv) |
 | [3031-construct-product-matrix](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3031-construct-product-matrix) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3415-check-if-grid-satisfies-conditions) |
@@ -832,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1962-single-threaded-cpu) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2479-meeting-rooms-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2479-meeting-rooms-iii) |
 ## Merge Sort
@@ -882,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1558-course-schedule-iv) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1753-path-with-minimum-effort) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2439-longest-cycle-in-a-graph](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2439-longest-cycle-in-a-graph) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2671-shortest-cycle-in-a-graph) |
 ## Binary Tree
@@ -994,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1558-course-schedule-iv) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2439-longest-cycle-in-a-graph](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2439-longest-cycle-in-a-graph) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2671-shortest-cycle-in-a-graph) |
 ## Topological Sort
@@ -1012,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Biconnected Component
 |  |
 | ------- |
