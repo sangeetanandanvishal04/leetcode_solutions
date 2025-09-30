@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0377-combination-sum-iv) |
+| [0399-evaluate-division](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0551-student-attendance-record-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0551-student-attendance-record-i) |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -861,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -972,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0130-surrounded-regions) |
+| [0399-evaluate-division](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0695-max-area-of-island) |
@@ -990,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0744-network-delay-time) |
@@ -1020,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
