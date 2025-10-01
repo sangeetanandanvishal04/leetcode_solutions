@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1610-xor-operation-in-an-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1610-xor-operation-in-an-array) |
+| [1642-water-bottles](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1642-water-bottles) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [1184-car-pooling](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1184-car-pooling) |
+| [1642-water-bottles](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2411-spiral-matrix-iv) |
