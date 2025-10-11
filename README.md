@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3324-split-the-array) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3415-check-if-grid-satisfies-conditions) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3324-split-the-array) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3797-design-spreadsheet) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3321-type-of-triangle) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3815-sum-of-largest-prime-substrings) |
 ## Enumeration
 |  |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3324-split-the-array) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -389,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
 |  |
@@ -426,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2690-house-robber-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2690-house-robber-iv) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
@@ -504,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2538-minimum-cost-to-make-array-equal](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2690-house-robber-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2690-house-robber-iv) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Database
 |  |
