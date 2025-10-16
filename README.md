@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2690-house-robber-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2690-house-robber-iv) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2915-count-of-interesting-subarrays) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2479-meeting-rooms-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2479-meeting-rooms-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2630-alternating-digit-sum](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2630-alternating-digit-sum) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2663-distribute-money-to-maximum-children](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2663-distribute-money-to-maximum-children) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3201-distribute-candies-among-children-ii) |
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2663-distribute-money-to-maximum-children](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2663-distribute-money-to-maximum-children) |
 | [2690-house-robber-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2690-house-robber-iv) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
