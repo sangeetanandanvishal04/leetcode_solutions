@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0055-jump-game) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0169-majority-element) |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0127-word-ladder) |
