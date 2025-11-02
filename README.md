@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3324-split-the-array) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3797-design-spreadsheet) |
@@ -726,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2411-spiral-matrix-iv) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
 |  |
 | ------- |
