@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0692-top-k-frequent-words](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0720-longest-word-in-dictionary) |
@@ -856,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1119,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [2227-sum-of-subarray-ranges](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Geometry
