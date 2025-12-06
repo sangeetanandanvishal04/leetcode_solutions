@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0149-max-points-on-a-line) |
+| [0224-basic-calculator](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0326-power-of-three) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0212-word-search-ii) |
+| [0224-basic-calculator](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0344-reverse-string) |
@@ -882,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
@@ -905,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0326-power-of-three) |
