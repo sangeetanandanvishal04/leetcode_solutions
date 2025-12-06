@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0326-power-of-three) |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0344-reverse-string) |
@@ -886,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0394-decode-string) |
