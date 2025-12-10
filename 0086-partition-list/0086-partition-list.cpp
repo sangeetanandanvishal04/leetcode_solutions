@@ -8,13 +8,21 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
+void print(ListNode * head){
+    while(head != NULL){
+        cout<<head->val<<" ";
+        head = head->next;
+    }
+    cout<<endl;
+}
 class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {
-        ListNode* beforeHead = new ListNode(0);
-        ListNode* before = beforeHead;
-        ListNode* afterHead = new ListNode(0);
-        ListNode* after = afterHead;
+        ListNode* before = new ListNode(-1);
+        ListNode* beforeHead = before;
+        ListNode* after = new ListNode(0);
+        ListNode* afterHead = after;
         
         ListNode* temp = head;
         while(temp != nullptr){
@@ -26,16 +34,13 @@ public:
                 after->next = temp;
                 after = after->next;
             }
+
             temp = temp->next;
         }
-        
-        after->next = nullptr;
+
         before->next = afterHead->next;
-        ListNode* result = beforeHead->next;
+        after->next = nullptr;
         
-        delete beforeHead;
-        delete afterHead;
-        
-        return result;
+        return beforeHead->next;
     }
 };
