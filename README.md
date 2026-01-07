@@ -876,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1104-coloring-a-border](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1104-coloring-a-border) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1300-critical-connections-in-a-network) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1380-number-of-closed-islands](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1380-number-of-closed-islands) |
 | [1428-jump-game-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1428-jump-game-iii) |
 | [1493-frog-position-after-t-seconds](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1493-frog-position-after-t-seconds) |
@@ -920,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1493-frog-position-after-t-seconds) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -1083,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Design
