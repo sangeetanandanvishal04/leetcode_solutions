@@ -7,21 +7,13 @@ public:
         
         while(l < r){
             if(height[l] <= height[r]){
-                if(height[l] >= leftMax){
-                    leftMax = height[l];
-                }
-                else{
-                    res += leftMax - height[l];
-                }
+                leftMax = max(leftMax, height[l]);
+                res += leftMax - height[l];
                 l++;
             }
             else{
-                if(height[r] >= rightMax){
-                    rightMax = height[r];
-                }
-                else{
-                    res += rightMax - height[r];
-                }
+                rightMax = max(rightMax, height[r]);
+                res += rightMax - height[r];
                 r--;
             }
         }
