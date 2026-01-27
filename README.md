@@ -1021,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2479-meeting-rooms-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2479-meeting-rooms-iii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1226,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -1275,4 +1277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0332-reconstruct-itinerary) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
