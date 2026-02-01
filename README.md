@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3031-construct-product-matrix](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3031-construct-product-matrix) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Counting
