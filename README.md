@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3028-ant-on-the-boundary](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3028-ant-on-the-boundary) |
 | [3031-construct-product-matrix](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3031-construct-product-matrix) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2411-spiral-matrix-iv) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2479-meeting-rooms-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2479-meeting-rooms-iii) |
+| [3028-ant-on-the-boundary](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3028-ant-on-the-boundary) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Bit Manipulation
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-intervals-between-identical-elements](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2121-intervals-between-identical-elements) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2915-count-of-interesting-subarrays](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [3028-ant-on-the-boundary](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3028-ant-on-the-boundary) |
 | [3031-construct-product-matrix](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3031-construct-product-matrix) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## String
