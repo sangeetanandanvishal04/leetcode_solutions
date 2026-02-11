@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1646-kth-missing-positive-number) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1751-slowest-key](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1751-slowest-key) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1642-water-bottles) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2206-detonate-the-maximum-bombs](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2206-detonate-the-maximum-bombs) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1603-running-sum-of-1d-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1603-running-sum-of-1d-array) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2001-jump-game-vii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2001-jump-game-vii) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
