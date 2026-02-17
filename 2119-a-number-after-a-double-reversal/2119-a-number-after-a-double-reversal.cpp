@@ -1,18 +1,10 @@
-class Solution {
-private:
-    int reverse(int num){
-        int temp = num;
-        int rem = 0;
-
-        while(temp > 0){
-            rem = rem * 10 + temp % 10;
-            temp =  temp/10;
-        }
-
-        return rem;
-    }    
+class Solution {  
 public:
     bool isSameAfterReversals(int num) {
-        return reverse(reverse(num)) == num;
+        if(num == 0){
+            return true;
+        }
+            
+        return num % 10 != 0;
     }
 };
