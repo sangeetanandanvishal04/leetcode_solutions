@@ -564,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2479-meeting-rooms-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2479-meeting-rooms-iii) |
 | [3028-ant-on-the-boundary](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3028-ant-on-the-boundary) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Bit Manipulation
@@ -815,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3194-find-words-containing-character](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3617-find-the-original-typed-string-i) |
