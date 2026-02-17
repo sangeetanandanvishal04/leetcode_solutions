@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1642-water-bottles) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [2119-a-number-after-a-double-reversal](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2206-detonate-the-maximum-bombs](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
