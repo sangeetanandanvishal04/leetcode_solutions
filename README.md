@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2451-odd-string-difference](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2451-odd-string-difference) |
 | [2479-meeting-rooms-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2451-odd-string-difference](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2451-odd-string-difference) |
 | [2479-meeting-rooms-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2479-meeting-rooms-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -820,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2001-jump-game-vii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2001-jump-game-vii) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2451-odd-string-difference](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2451-odd-string-difference) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
