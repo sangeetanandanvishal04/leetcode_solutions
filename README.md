@@ -582,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1009-complement-of-base-10-integer](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
