@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1293-three-consecutive-odds](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1293-three-consecutive-odds) |
+| [1306-jump-game-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1306-jump-game-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -957,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1104-coloring-a-border](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1104-coloring-a-border) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1300-critical-connections-in-a-network) |
+| [1306-jump-game-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1380-number-of-closed-islands](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1380-number-of-closed-islands) |
 | [1428-jump-game-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1428-jump-game-iii) |
@@ -1123,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1104-coloring-a-border](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1104-coloring-a-border) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1306-jump-game-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1306-jump-game-iii) |
 | [1380-number-of-closed-islands](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1380-number-of-closed-islands) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1428-jump-game-iii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1428-jump-game-iii) |
