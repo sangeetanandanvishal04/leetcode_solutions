@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3637-trionic-array-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3731-find-missing-elements](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3731-find-missing-elements) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3797-design-spreadsheet) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3583-count-special-triplets](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3731-find-missing-elements](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3731-find-missing-elements) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3797-design-spreadsheet) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3321-type-of-triangle) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3634-minimum-removals-to-balance-array](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3634-minimum-removals-to-balance-array) |
+| [3731-find-missing-elements](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3731-find-missing-elements) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3815-sum-of-largest-prime-substrings) |
 ## Enumeration
 |  |
