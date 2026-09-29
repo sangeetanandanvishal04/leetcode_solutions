@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2227-sum-of-subarray-ranges](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2294-minimum-time-to-complete-trips](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2294-minimum-time-to-complete-trips) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2690-house-robber-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2690-house-robber-iv) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2047-find-a-peak-element-ii](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2411-spiral-matrix-iv) |
@@ -1368,4 +1371,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
