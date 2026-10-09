@@ -752,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1829-maximum-units-on-a-truck) |
@@ -852,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1436-destination-city) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1487-making-file-names-unique](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1487-making-file-names-unique) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1069,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2227-sum-of-subarray-ranges](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2227-sum-of-subarray-ranges) |
@@ -1392,6 +1395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sangeetanandanvishal04/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
